@@ -5,7 +5,7 @@
 const CONFIG = {
   email: "kunalsaurabhgond@gmail.com",
   instagram: "https://www.instagram.com/kunaledit11/",
-  youtube: "https://www.youtube.com/@KunalEdits-14x",
+  youtube: "https://www.youtube.com/@KunalEdits-l4x",
   linkedin: "",
   formEndpoint: "https://formspree.io/f/xbggkldo"
 };
