@@ -7,7 +7,7 @@ const CONFIG = {
   instagram: "https://www.instagram.com/kunaledit11/",
   youtube: "https://www.youtube.com/@KunalEdits-14x",
   linkedin: "",
-  formEndpoint: ""
+  formEndpoint: "https://formspree.io/f/xbggkldo"
 };
 
 /* ============ 2. PROJECTS — edit each entry, add more, or reorder ============
