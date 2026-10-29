@@ -3,9 +3,9 @@
 /* ============ 1. CONTACT CONFIG — REPLACE these with your real details ============
    Leave a value as "" and that link shows as disabled instead of pointing nowhere. */
 const CONFIG = {
-  email: "",      // e.g. "you@example.com"  (used by the form's email fallback and Email links)
-  instagram: "",  // full URL, e.g. "https://instagram.com/yourhandle"
-  youtube: "",    // full URL
+  email: "",      // "kunalsaurabhgond@gmail.com"  (used by the form's email fallback and Email links)
+  instagram: "",  // "https://www.instagram.com/kunaledit11/"
+  youtube: "",    // "https://www.youtube.com/@KunalEdits-l4x"
   linkedin: "",   // full URL
   formEndpoint: "" // optional: a Formspree/Getform URL. If set, the form posts there instead of opening your email app.
 };
