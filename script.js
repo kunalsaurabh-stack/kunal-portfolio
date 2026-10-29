@@ -3,11 +3,11 @@
 /* ============ 1. CONTACT CONFIG — REPLACE these with your real details ============
    Leave a value as "" and that link shows as disabled instead of pointing nowhere. */
 const CONFIG = {
-  email: "",      // "kunalsaurabhgond@gmail.com"  (used by the form's email fallback and Email links)
-  instagram: "",  // "https://www.instagram.com/kunaledit11/"
-  youtube: "",    // "https://www.youtube.com/@KunalEdits-l4x"
-  linkedin: "",   // full URL
-  formEndpoint: "" // optional: a Formspree/Getform URL. If set, the form posts there instead of opening your email app.
+  email: "kunalsaurabhgond@gmail.com",
+  instagram: "https://www.instagram.com/kunaledit11/",
+  youtube: "https://www.youtube.com/@KunalEdits-14x",
+  linkedin: "",
+  formEndpoint: ""
 };
 
 /* ============ 2. PROJECTS — edit each entry, add more, or reorder ============
